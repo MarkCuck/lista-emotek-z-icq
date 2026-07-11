@@ -1,1 +1,29 @@
 # lista-emotek-z-icq
+
+-rw-r--r-- 1 reimu users  6739 Mar 18  2015 angel.gif
+-rw-r--r-- 1 reimu users  2072 Mar 18  2015 beer.gif
+-rw-r--r-- 1 reimu users  9745 Mar 18  2015 blushing.gif
+-rw-r--r-- 1 reimu users  8890 Mar 18  2015 bomb.gif
+-rw-r--r-- 1 reimu users  9509 Mar 18  2015 cool.gif
+-rw-r--r-- 1 reimu users  3251 Mar 18  2015 crying.gif
+-rw-r--r-- 1 reimu users  2740 Mar 18  2015 devil.gif
+-rw-r--r-- 1 reimu users  4883 Mar 18  2015 gross.gif
+-rw-r--r-- 1 reimu users  7239 Mar 18  2015 kissed.gif
+-rw-r--r-- 1 reimu users  5884 Mar 18  2015 kiss.gif
+-rw-r--r-- 1 reimu users  5772 Mar 18  2015 kissing.gif
+-rw-r--r-- 1 reimu users  9154 Mar 18  2015 laughing.gif
+-rw-r--r-- 1 reimu users  8286 Mar 18  2015 love.gif
+-rw-r--r-- 1 reimu users  5832 Mar 18  2015 mad.gif
+-rw-r--r-- 1 reimu users  8323 Mar 18  2015 music.gif
+-rw-r--r-- 1 reimu users  3446 Mar 18  2015 nothingtosay.gif
+-rw-r--r-- 1 reimu users  4605 Mar 18  2015 sad.gif
+-rw-r--r-- 1 reimu users  5273 Mar 18  2015 scream.gif
+-rw-r--r-- 1 reimu users 10711 Mar 18  2015 shutup.gif
+-rw-r--r-- 1 reimu users  2698 Mar 18  2015 smile.gif
+-rw-r--r-- 1 reimu users  4359 Mar 18  2015 stop.gif
+-rw-r--r-- 1 reimu users  7347 Mar 18  2015 surprised.gif
+-rw-r--r-- 1 reimu users  2045 Mar 18  2015 thankyou.gif
+-rw-r--r-- 1 reimu users  4271 Mar 18  2015 thumbsup.gif
+-rw-r--r-- 1 reimu users  4942 Mar 18  2015 tired.gif
+-rw-r--r-- 1 reimu users  8480 Mar 18  2015 tongueout.gif
+-rw-r--r-- 1 reimu users  2532 Mar 18  2015 winkblink.gif
